@@ -1,2 +1,38 @@
-Zomato Bengaluru - Data Analysis DashboardProject OverviewThis project presents a comprehensive Power BI dashboard for analyzing Zomato's restaurant data in Bengaluru. The dashboard provides key insights into market saturation, customer preferences, and service adoption, with the goal of identifying opportunities for business growth and optimization.Key Performance Indicators (KPIs)The dashboard focuses on the following primary KPIs to measure the health of the restaurant ecosystem:Total Restaurants: Overall count of unique restaurant partners (6.57K)Average Rating: Average customer rating for all restaurants (3.7 out of 5)Average Cost for Two: Average meal cost for two people (₹661)Total Votes: Total number of customer ratings submitted (48M)FeaturesInteractive Filters: Allows users to filter all dashboard visuals by Location and Restaurant Type.Location Analysis: A bar chart visualizes the Top 10 most saturated restaurant locations.Restaurant Type Distribution: A donut chart breaks down the market share of different restaurant types (e.g., Quick Bites, Casual Dining).Service Availability Analysis: Pie charts show the percentage of restaurants that offer Online Ordering vs. Table Booking.Performance Matrix: A detailed table compares different restaurant types based on their average rating, average cost, and total votes.Insights and ConclusionsMarket Opportunity: While areas like Hosur Road are highly competitive, locations such as Peenya and Kengeri are underserved and represent clear opportunities for expansion.Consumer Behavior: "Quick Bites" and "Casual Dining" are the most dominant restaurant types, indicating a strong demand for fast and affordable options.Digital Readiness: Online ordering is a critical feature for success, with over 67% adoption. Table booking, at less than 14%, remains a niche service.NOTE: This analysis was conducted as a personal project for educational purposes.
+# Zomato Bengaluru - Data Analysis Dashboard
 
+
+
+### Project Overview
+
+This project presents a comprehensive Power BI dashboard for analyzing Zomato's restaurant data in Bengaluru. The dashboard provides key insights into market saturation, customer preferences, and service adoption, with the goal of identifying opportunities for business growth and optimization.
+
+---
+
+### Key Performance Indicators (KPIs)
+
+The dashboard focuses on the following primary KPIs to measure the health of the restaurant ecosystem:
+
+1.  **Total Restaurants:** Overall count of unique restaurant partners (6.57K)
+2.  **Average Rating:** Average customer rating for all restaurants (3.7 out of 5)
+3.  **Average Cost for Two:** Average meal cost for two people (₹661)
+4.  **Total Votes:** Total number of customer ratings submitted (48M)
+
+---
+
+### Features
+
+* **Interactive Filters:** Allows users to filter all dashboard visuals by Location and Restaurant Type.
+* **Location Analysis:** A bar chart visualizes the Top 10 most saturated restaurant locations.
+* **Restaurant Type Distribution:** A donut chart breaks down the market share of different restaurant types (e.g., Quick Bites, Casual Dining).
+* **Service Availability Analysis:** Pie charts show the percentage of restaurants that offer Online Ordering vs. Table Booking.
+* **Performance Matrix:** A detailed table compares different restaurant types based on their average rating, average cost, and total votes.
+
+---
+
+### Insights and Conclusions
+
+* **Market Opportunity:** While areas like Hosur Road are highly competitive, locations such as Peenya and Kengeri are underserved and represent clear opportunities for expansion.
+* **Consumer Behavior:** "Quick Bites" and "Casual Dining" are the most dominant restaurant types, indicating a strong demand for fast and affordable options.
+* **Digital Readiness:** Online ordering is a critical feature for success, with over 67% adoption. Table booking, at less than 14%, remains a niche service.
+
+> **NOTE:** This analysis was conducted as a personal project for educational purposes.
