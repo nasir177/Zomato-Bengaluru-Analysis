@@ -1,4 +1,5 @@
 Zomato Bengaluru Restaurant Analysis 📊
+
 📖 Project Overview
 This project delivers a detailed analysis of the restaurant landscape in Bengaluru using Zomato’s dataset. The objective was to uncover trends in restaurant types, customer preferences, and location dynamics, and to translate them into actionable insights for business stakeholders. The complete workflow included data cleaning, transformation, and visualization to simulate a real-world analytics use case.
 
