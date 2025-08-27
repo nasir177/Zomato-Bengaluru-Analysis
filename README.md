@@ -53,6 +53,5 @@ The dashboard tracks the following key metrics for the Bengaluru restaurant ecos
   - **Online Ordering** → Over **67% adoption** → a must-have for survival in this market  
   - **Table Booking** → Only **~14% adoption** → still niche, limited customer preference  
 
----
 
-## 📂 Repository Structure
+
